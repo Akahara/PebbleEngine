@@ -17,6 +17,8 @@ Try to beat 4'30"!
 ![missing image](documents/screen_2.png)
 ![missing image](documents/screen_3.png)
 
+See more on [itch.io](https://aikeon.itch.io/celespeed).
+
 ## The engine
 
 Key features :
